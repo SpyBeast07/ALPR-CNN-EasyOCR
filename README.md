@@ -26,6 +26,12 @@ A complete pipeline to detect and recognize vehicle license plates, designed as 
 
 ---
 
+# Architecture Diagram
+
+![Architecture Diagram](images/archDiagram.png)
+
+---
+
 ## 📂 Repository Structure
 ```
 ALPR-CNN-EasyOCR/
